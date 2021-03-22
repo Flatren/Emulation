@@ -1,0 +1,10 @@
+C:\Users\Flatren\source\repos\Звери\bin\Debug\Звери.exe.config
+C:\Users\Flatren\source\repos\Звери\bin\Debug\Звери.exe
+C:\Users\Flatren\source\repos\Звери\bin\Debug\Звери.pdb
+C:\Users\Flatren\source\repos\Звери\obj\Debug\Звери.csprojAssemblyReference.cache
+C:\Users\Flatren\source\repos\Звери\obj\Debug\Звери.Form1.resources
+C:\Users\Flatren\source\repos\Звери\obj\Debug\Звери.Properties.Resources.resources
+C:\Users\Flatren\source\repos\Звери\obj\Debug\Звери.csproj.GenerateResource.cache
+C:\Users\Flatren\source\repos\Звери\obj\Debug\Звери.csproj.CoreCompileInputs.cache
+C:\Users\Flatren\source\repos\Звери\obj\Debug\Звери.exe
+C:\Users\Flatren\source\repos\Звери\obj\Debug\Звери.pdb
